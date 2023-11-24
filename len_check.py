@@ -1,2 +1,2 @@
-text  = "Leading us beyond boundaries, yet maintaining a strong stance"
+text  = "Camping: where cooking over a fire is considered gourmet"
 print(len(text))
