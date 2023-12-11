@@ -12,4 +12,4 @@ def remove_duplicate_lines(input_file, output_file):
         file.writelines(unique_lines)
 
 # Thực hiện loại bỏ dòng trùng lặp từ file text.txt và ghi vào file mới unique_text.txt
-remove_duplicate_lines('sentence_data.txt', 'unique_text.txt')
+remove_duplicate_lines('Text.txt', 'unique_text.txt')
